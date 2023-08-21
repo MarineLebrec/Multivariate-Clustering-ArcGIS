@@ -3,12 +3,12 @@ This repo includes Jupyter notebooks describing the workflow used to generate re
 
 Below is an overview of what each notebook covers:
 
-Step1_Data_Access.ipynb: <br>
+<u>Step1_Data_Access.ipynb:<u> <br>
 - Accessing GEBCO bathymetry data, clipping that data to a region of interest, and masking that data to exclude values above sea level.
 - Running the Benthic Terrain Modeler
 - Accessing Bio-ORACLE and NEMO-MEDUSA raster layers
 
-Step2_Run_Clustering.ipynb:<br>
+<u>Step2_Run_Clustering.ipynb:<u><br>
 - Resampling bathymetry layer
 - Converting one of the BTM outputs raster to points
 - Creating feature class containing all layers 

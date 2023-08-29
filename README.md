@@ -9,8 +9,7 @@ Below is an overview of what each notebook covers:
 - Accessing Bio-ORACLE and NEMO-MEDUSA raster layers
 
 <u>Step2_Run_Clustering.ipynb:<u><br>
-- Resampling bathymetry layer
-- Converting one of the BTM outputs raster to points
-- Creating feature class containing all layers 
+- Aggregating data and converting either to hex bins or points
+- Creating feature class containing all layers
 - Run Multivariate Clustering
 - Visualizing clustering outputs using box plots and different mapping techniques

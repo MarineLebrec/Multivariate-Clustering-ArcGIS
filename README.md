@@ -1,5 +1,6 @@
 # Multivariate-Clustering-ArcGIS
-This repo includes Jupyter notebooks outlining the workflow used to generate regional benthic habitat classification maps using ArcGIS Pro tools. This workflow uses similar non-hierarchical multivariate clustering methods as those described in [McQuaid et al. (2023)](https://doi.org/10.1016/j.pocean.2023.103016). <br><br>
+
+This repo includes Jupyter notebooks outlining the workflow used to generate regional benthic habitat classification maps using ArcGIS Pro geoprocessing tools. This workflow uses similar non-hierarchical multivariate clustering methods as those described in [McQuaid et al. (2023)](https://doi.org/10.1016/j.pocean.2023.103016). <br><br>
 This content was used during a hands-on training course as part of the Deep Ocean Observing Strategy ["Deep Ocean Collective Solution Accelerator"](https://www.deepoceanobserving.org/pages/collective-solution-accelerator) in October 2023 at Scripps Institution of Oceanography, La Jolla, CA, USA. <br>
 
 This workflow was run using ArcGIS Pro 3.1.2. 
@@ -16,3 +17,9 @@ This workflow was run using ArcGIS Pro 3.1.2.
 - Creating feature class containing all layers
 - Run Multivariate Clustering
 - Visualizing clustering outputs using box plots and different mapping techniques
+
+##### Want to get involved in the DOOS Habitat Mapping working group? 
+:email: Reach out to us: mlebrec@mbari.org <br>
+:earth_americas: Follow our work on ArcGIS Online: https://arcg.is/194HqP1 
+
+<img src="images/iDOOS_logo-3-400x295.png" style="width:200px; height:auto;" />

@@ -20,6 +20,5 @@ This workflow was run using ArcGIS Pro 3.1.2. The ArcGIS Pro Project file can be
 
 ##### Want to get involved in the DOOS Habitat Mapping working group? 
 :email: Reach out to us: mlebrec@mbari.org <br>
-:earth_americas: Follow our work on ArcGIS Online: https://arcg.is/194HqP1
 
 <img src="images/iDOOS_logo-3-400x295.png" style="width:200px; height:auto;" />
